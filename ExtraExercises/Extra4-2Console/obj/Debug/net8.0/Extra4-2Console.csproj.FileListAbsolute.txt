@@ -1,0 +1,14 @@
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\bin\Debug\net8.0\Extra4-2Console.exe
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\bin\Debug\net8.0\Extra4-2Console.deps.json
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\bin\Debug\net8.0\Extra4-2Console.runtimeconfig.json
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\bin\Debug\net8.0\Extra4-2Console.dll
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\bin\Debug\net8.0\Extra4-2Console.pdb
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\Extra4-2Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\Extra4-2Console.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\Extra4-2Console.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\Extra4-2Console.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\Extra4-2Console.dll
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\refint\Extra4-2Console.dll
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\Extra4-2Console.pdb
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\Extra4-2Console.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra4-2Console\obj\Debug\net8.0\ref\Extra4-2Console.dll

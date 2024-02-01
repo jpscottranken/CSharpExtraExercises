@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\bin\Debug\Extra7-1.exe.config
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\bin\Debug\Extra7-1.exe
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\bin\Debug\Extra7-1.pdb
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\obj\Debug\Extra7-1.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\obj\Debug\Extra7_1.Form1.resources
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\obj\Debug\Extra7_1.Properties.Resources.resources
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\obj\Debug\Extra7-1.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\obj\Debug\Extra7-1.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\obj\Debug\Extra7-1.exe
+C:\Users\jpscott\Desktop\CSharpExtraExercises\ExtraExercises\Extra7-1\obj\Debug\Extra7-1.pdb

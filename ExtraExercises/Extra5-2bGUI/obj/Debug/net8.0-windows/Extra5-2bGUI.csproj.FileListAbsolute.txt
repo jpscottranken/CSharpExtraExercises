@@ -1,0 +1,16 @@
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\bin\Debug\net8.0-windows\Extra5-2bGUI.exe
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\bin\Debug\net8.0-windows\Extra5-2bGUI.deps.json
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\bin\Debug\net8.0-windows\Extra5-2bGUI.runtimeconfig.json
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\bin\Debug\net8.0-windows\Extra5-2bGUI.dll
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\bin\Debug\net8.0-windows\Extra5-2bGUI.pdb
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5_2bGUI.frmChangeCalculator.resources
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5-2bGUI.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5-2bGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5-2bGUI.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5-2bGUI.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5-2bGUI.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5-2bGUI.dll
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\refint\Extra5-2bGUI.dll
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5-2bGUI.pdb
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\Extra5-2bGUI.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\Chapters4-5ExtraExercises\ExtraExercises\Extra5-2bGUI\obj\Debug\net8.0-windows\ref\Extra5-2bGUI.dll
